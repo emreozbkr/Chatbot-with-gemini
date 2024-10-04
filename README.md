@@ -16,25 +16,7 @@ React: A popular JavaScript library used for building the user interface.
 CSS: Modern and responsive design rules for styling the application.
 Fetch API: Used to make requests to the backend.
 Node.js & Express (Optional Backend): A Node.js-based API can be created for the backend part.
-📱 Usage
 
-This application is developed using React for the frontend. The backend runs on a local server (e.g., http://localhost:8080/gemini), where messages are sent and processed by the chatbot model. You can follow these steps to run the project:
-
-Steps:
-Clone the Repository:
-bash
-Kodu kopyala
-git clone https://github.com/username/chatbot-application.git
-cd chatbot-application
-Install Dependencies:
-bash
-Kodu kopyala
-npm install
-Run the Application:
-bash
-Kodu kopyala
-npm start
-By following these steps, the app will run locally, and you can start chatting with the chatbot in real-time!
 
 🎨 Screenshots
 
@@ -68,25 +50,7 @@ React: Kullanıcı arayüzü için kullanılan popüler bir JavaScript kütüpha
 CSS: Uygulamanın stilizasyonu için modern ve duyarlı tasarım kuralları.
 Fetch API: Backend'e istek atmak için kullanılan yöntem.
 Node.js & Express (Opsiyonel Backend): Backend kısmı için Node.js tabanlı bir API oluşturulabilir.
-📱 Kullanım
 
-Bu uygulama, frontend tarafında React kullanılarak geliştirilmiştir. Backend kısmı ise lokal bir sunucuda çalışır (örneğin http://localhost:8080/gemini). API üzerinden chatbot modeliyle mesaj alışverişi yapılır. Projeyi çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
-
-Adımlar:
-Projeyi Klonlayın:
-bash
-Kodu kopyala
-git clone https://github.com/kullanici-adi/chatbot-uygulamasi.git
-cd chatbot-uygulamasi
-Bağımlılıkları Yükleyin:
-bash
-Kodu kopyala
-npm install
-Uygulamayı Çalıştırın:
-bash
-Kodu kopyala
-npm start
-Bu adımlarla uygulama yerel ortamınızda çalışacaktır. Chatbot ile gerçek zamanlı mesajlaşmaya başlayabilirsiniz!
 
 🎨 Ekran Görüntüleri
 
