@@ -18,7 +18,7 @@ Fetch API: Used to make requests to the backend.
 Node.js & Express (Optional Backend): A Node.js-based API can be created for the backend part.
 
 
-🎨 Screenshots
+🎨 Screenshots (https://github.com/user-attachments/assets/c548f1dc-2dad-4116-991c-23bd3abfe96f)
 
 Chat Interface: Users can type and send messages, receiving quick responses from the chatbot.
 Mobile and Desktop Compatibility: The application works flawlessly across all devices, and the message history is displayed consistently.
@@ -26,7 +26,6 @@ Mobile and Desktop Compatibility: The application works flawlessly across all de
 
 Integration with Real AI Models: Currently, a demo chatbot is in use. In the future, more advanced AI models like GPT can be integrated to generate smarter responses.
 Message History Persistence: Plans to store the conversation history in a database for later access.
-
 
 
 
@@ -52,7 +51,7 @@ Fetch API: Backend'e istek atmak için kullanılan yöntem.
 Node.js & Express (Opsiyonel Backend): Backend kısmı için Node.js tabanlı bir API oluşturulabilir.
 
 
-🎨 Ekran Görüntüleri
+🎨 Ekran Görüntüleri (https://github.com/user-attachments/assets/c548f1dc-2dad-4116-991c-23bd3abfe96f)
 
 Mesajlaşma Ekranı: Kullanıcılar mesaj yazıp gönderdiklerinde chatbot'tan hızlı cevap alabilirler.
 Mobil ve Masaüstü Uyumu: Uygulama, tüm cihazlarda sorunsuz bir şekilde çalışır ve mesajlar kaydedilir.
@@ -60,3 +59,4 @@ Mobil ve Masaüstü Uyumu: Uygulama, tüm cihazlarda sorunsuz bir şekilde çal�
 
 Gerçek AI Model Entegrasyonu: Uygulamada şu anda demo bir chatbot yer alıyor. Gelecekte, GPT gibi gelişmiş bir AI modeli entegre edilerek daha akıllı cevaplar üretilebilir.
 Mesajlaşma Geçmişinin Saklanması: Kullanıcı mesajlarının daha sonra erişilebilmesi için veritabanına kaydedilmesi planlanıyor.
+
